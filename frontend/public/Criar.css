@@ -1,0 +1,9 @@
+#header1 {
+    background: green !important;
+    color: #FFFFFF !important;
+    padding: 15px 0 !important;
+    position: fixed !important;
+    width: 120% !important;
+    margin-left: -10% !important;
+    z-index: 1000 !important;
+}

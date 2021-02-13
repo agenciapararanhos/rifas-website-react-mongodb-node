@@ -1,0 +1,341 @@
+.App {
+  text-align: center;
+}
+body {
+  overflow-x: hidden;
+}
+#perfiljump1 {
+  background: url(https://trentwalton.com/css3/type/img/grunge.jpg) no-repeat;
+  margin-top: 0 !important;
+  color: white;
+  margin-left: -2% !important;
+  height: 62rem !important;
+  width: 104% !important;
+  padding-top: 10%;
+}
+#bodyperfiljum {
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+  background: white;
+  padding: 2em;
+}
+#bodyperfiljum  .text-center {
+  text-align: center!important;
+  color: gray;
+}
+iframe  {
+  position: absolute;
+  margin-top: -19%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+#jump1 {
+  background: url(https://trentwalton.com/css3/type/img/grunge.jpg) no-repeat;
+  margin-top: 0 !important;
+  color: white;
+  margin-left: -1% !important;
+  height: 62rem !important;
+  width: 102% !important;
+  padding-top: 10%;
+}
+div#jump2 {
+  background-color: #ccc;
+  /*background-image: url(https://segurize.com.br/static/segurize/images/background/simples-facil.jpg); */
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  margin-top: -32px !important;
+  color: white;
+  margin-left: -1% !important;
+  height: 62rem !important;
+  width: 102% !important;
+  padding-top: 10%;
+}
+
+div#jump3 {
+  background-color: #bb2929;
+  /*background-image: url(https://segurize.com.br/static/segurize/images/background/simples-facil.jpg); */
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  margin-top: -32px !important;
+  color: white;
+  margin-left: -1% !important;
+  height: 62rem !important;
+  width: 102% !important;
+  padding-top: 10%;
+}
+.produtos img {
+  max-width: 20%;
+  margin-left: 5%;
+}
+#jump4 .container h1 {
+  text-transform: uppercase;
+  font-family: "Circular-Loom";
+  padding-bottom: 1em;
+  max-width: 43%;
+  position: relative;
+  margin-left: 33%;
+}
+.footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #364b59;
+  color: rgba(255, 255, 255, 0.6);
+  width: 102%;
+  margin-left: -1%;
+  margin-top: -3%;
+}
+
+div#jump4 {
+  background-color: green;
+  /*background-image: url(https://segurize.com.br/static/segurize/images/background/simples-facil.jpg); */
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  margin-top: -32px !important;
+  color: white;
+  margin-left: -1% !important;
+  height: 62rem !important;
+  width: 102% !important;
+  padding-top: 10%;
+  height: 62rem !important;
+}
+.main {
+  transform: scale(0.8);
+}
+.col-md-4 {
+  float: left !important;
+}
+#jump1 .imgone {
+  opacity: 0.7;
+  transition: 2s;
+}
+#jump1 .imgone:hover {
+  opacity: 1;
+}
+.navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 999999;
+  max-height: 6rem;
+
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+}
+.bodyjump2 {
+  max-width: 20%;
+  background: white;
+  color: gray;
+  padding: 1em;
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+button.saibamais {
+  color: white;
+  font-size: 2rem;
+  background-color: black;
+  position: absolute;
+  margin-top: -6%;
+  padding: 10px;
+  margin-left: -5%;
+  background-color: #2dacd5;
+  border: none;
+}
+button#dropdown-menu-align-right {
+  width: 10%;
+  position: relative;
+}
+
+@media screen and (min-width: 768px) {
+  .navbar button {
+    position: absolute;
+    margin-left: 10%;
+  }
+}
+body {
+  background: white;
+}
+.logoparanhos {
+  max-width: 16%;
+}
+
+@font-face {
+  font-family: "LeagueGothicRegular";
+  src: url("League_Gothic.eot");
+  src: local("League Gothic Regular"), url("League_Gothic.woff") format("woff"),
+    url("League_Gothic.otf") format("opentype"),
+    url("League_Gothic.svg#LeagueGothic") format("svg");
+}
+.clock{
+  zoom: 0.4;
+  -moz-transform: scale(0.4)
+}
+
+  
+.fileuploader {
+  max-width: 460px;
+  margin: 15px;
+}
+.deletar{
+  background-color: red;
+  padding: 10px;
+}
+.imagem_{
+  background-color:white;
+  padding:5px;
+  margin-left:10px;
+}
+#root {
+  overflow: hidden;
+}
+
+.itried {
+  font-size: 50px;
+  border-radius: 5px;
+  background-color: #2EC66D;
+  font-family: 'Lato', sans-serif;
+  padding: 14px 42px;
+  border: none;
+  font-weight: bold;
+}
+.css {
+  font-size: 206px;
+  letter-spacing: 5px;
+  line-height: 1;
+}
+.itworked {
+  font: italic 60px/0 "bistro-script-web-1", "bistro-script-web-2", cursive;
+  text-transform: lowercase;
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+.hoo {
+  font-size: 258px;
+  letter-spacing: 5px;
+  line-height: 1;
+  margin-top: 35px;
+}
+#header1 {
+  background: green !important;
+  color: #FFFFFF !important;
+  padding: 15px 0 !important;
+  position: absolute !important;
+  width: 120% !important;
+  margin-left: -10% !important;
+  z-index: 1000 !important;
+}
+.timeline-content {
+  color: black !important;
+}
+button, input, select, textarea, optgroup {
+  font: inherit;
+  margin: 0;
+  color: gray !important;
+}
+a.navbar-brand {
+  float: none !important;
+  height: auto !important;
+  padding: inherit !important;
+  line-height: 0 !important;
+}
+
+.view {
+  font-size: 57px;
+  margin-top: -15px;
+}
+.hoo,
+.css {
+  text-shadow: #4a8d97 3px 3px 0;
+}
+
+.line-left,
+.line-right {
+  border-bottom: 2px solid #2a4f54;
+  width: 160px;
+  display: inline-block;
+  margin-bottom: -50px;
+}
+.line-left {
+  float: left;
+  margin-top: 25px;
+  margin-left: 15px;
+}
+.line-right {
+  float: right;
+  margin-top: 0px;
+  margin-right: 15px;
+}
+
+.css:after {
+  content: "CSS Three";
+  margin-top: -198px;
+  margin-left: 16px;
+}
+.hoo:after {
+  content: "hooray!";
+  margin-top: -250px;
+  margin-left: 18px;
+}
+.css:after,
+.hoo:after {
+  opacity: 0.4;
+  background: url(https://trentwalton.com/css3/type/img/crosshatch.png) repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  z-index: -5;
+  display: block;
+  text-shadow: none;
+}
+#container {
+  margin: 0px auto 35px;
+  width: 660px;
+  padding-top: 60px;
+}
+.main {
+  font-family: "LeagueGothicRegular", Lucida, sans-serif;
+  text-transform: uppercase;
+  line-height: 0.9;
+}
+.explanation {
+  margin-top: 20px;
+  font: italic 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #2a4f54;
+  text-decoration: none;
+  -webkit-transition: color 0.6s linear;
+}
+a:hover {
+  color: #fff;
+  -webkit-transition: color 0.1s linear;
+}
